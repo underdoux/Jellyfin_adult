@@ -17,7 +17,7 @@
         ],
         "assets": [
             {
-                "url": "https://github.com/underdoux/Jellyfin_adult/raw/main/Jellyfin.Plugin.PhoenixAdult.zip",
+                "url": "https://raw.githubusercontent.com/underdoux/Jellyfin_adult/main/Jellyfin.Plugin.PhoenixAdult.zip",
                 "type": "package",
                 "checksum": ""
             }
