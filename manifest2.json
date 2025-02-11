@@ -1,0 +1,24 @@
+{
+    "name": "PhoenixAdult",
+    "guid": "f2a6e540-3c75-11ec-8d3d-0242ac130003",
+    "version": "1.0.0",
+    "description": "A metadata provider plugin for adult content, including support for JavLibrary.",
+    "targetAbi": "10.9.0.0",
+    "developer": "PhoenixAdult Team",
+    "category": "Metadata",
+    "homepage": "https://github.com/underdoux/Jellyfin_adult",
+    "changelog": "Updated SiteList.json for JavLibrary support; Minor fixes",
+    "requirements": [
+        {
+            "dependency": "Jellyfin.Server",
+            "minimumVersion": "10.9.0"
+        }
+    ],
+    "assets": [
+        {
+            "url": "https://github.com/underdoux/Jellyfin_adult/raw/main/Jellyfin.Plugin.PhoenixAdult.zip",
+            "type": "package",
+            "checksum": ""
+        }
+    ]
+}
